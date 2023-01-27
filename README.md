@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning ✨Python✨ 
+- 🔭 I’m currently working on my Portfolio and updating my CV 
+- 🌱 I’m currently learning ✨ _Python_ ✨ 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
