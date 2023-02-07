@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Portfolio and updating my CV 
+- 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning ✨ _React_ ✨ 
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,5 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: [Dayna] or [Dana]
 -->
 
