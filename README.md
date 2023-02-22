@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daina Stauere</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
+<h3 align="center">A passionate Front-end Web Developer | Graphic Designer from London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazeste&label=Profile%20views&color=0e75b6&style=flat" alt="dazeste" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazeste" alt="dazeste" /></a> </p> -->
+
 
 - 🔭 I’m currently working on [Portfolio](http://daina.org.uk/)
 
@@ -16,6 +16,8 @@
 - 📄 Know about my experiences [http://daina.org.uk/image/DainaStauereCV.pdf](http://daina.org.uk/image/DainaStauereCV.pdf)
 
 - ⚡ Fun fact **I think I am funny**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazeste" alt="dazeste" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
