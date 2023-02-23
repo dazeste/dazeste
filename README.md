@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [http://daina.org.uk/image/DainaStauereCV.pdf](http://daina.org.uk/image/DainaStauereCV.pdf)
 
-- ⚡ Fun fact **I think I am funny**
+<!-- - ⚡ Fun fact **I think I am funny** -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=dazeste" alt="dazeste" /></a> </p>
