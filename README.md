@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazeste&show_icons=true&locale=en&layout=compact" alt="dazeste" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dazeste&show_icons=true&locale=en" alt="dazeste" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dazeste&show_icons=true&locale=en" alt="dazeste" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dazeste&" alt="dazeste" /></p>
 
