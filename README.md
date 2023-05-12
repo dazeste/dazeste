@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on [Portfolio](http://daina.org.uk/)
 
-- 🌱 I’m currently learning **React**
+<--  -🌱 I’m currently learning **React**-->
 
 - 👨‍💻 All of my projects are available at [http://daina.org.uk/](http://daina.org.uk/)
 
