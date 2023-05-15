@@ -14,7 +14,7 @@
 
 <!-- - 📫 How to reach me **daina.stauere@gmail.com** -->
 
-- 📄 Know about my experiences [http://daina.org.uk/image/DainaStauereCV.pdf](http://daina.org.uk/image/DainaStauereCV.pdf) -->
+<!--  - 📄 Know about my experiences [http://daina.org.uk/image/DainaStauereCV.pdf](http://daina.org.uk/image/DainaStauereCV.pdf) -->
 
 <!-- - ⚡ Fun fact **I think I am funny** -->
 <br>
