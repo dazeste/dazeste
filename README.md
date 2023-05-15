@@ -6,7 +6,7 @@
 <!-- 🌱 I’m currently learning **Python** -->
 
 
-<!-- - 🔭 I’m currently working on [Portfolio](http://daina.org.uk/)
+<!-- - 🔭 I’m currently working on [Portfolio](http://daina.org.uk/) -->
 
 <--  -🌱 I’m currently learning **React**-->
 
