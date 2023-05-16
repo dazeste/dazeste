@@ -10,7 +10,7 @@
 
 <!--  -🌱 I’m currently learning **React**-->
 
-- 👨‍💻 All of my projects are available at [http://daina.org.uk/](http://daina.org.uk/)
+<!-- - 👨‍💻 All of my projects are available at [http://daina.org.uk/](http://daina.org.uk/) -->
 
 <!-- - 📫 How to reach me **daina.stauere@gmail.com** -->
 
