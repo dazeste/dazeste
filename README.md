@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daina</h1>
 <h3 align="center">A passionate Front-end Web Developer | Graphic Designer from London</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazeste&label=Profile%20views&color=0e75b6&style=flat" alt="dazeste" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dazeste&label=Profile%20views&color=0e75b6&style=flat" alt="dazeste" /> </p>
 
 <!-- 🌱 I’m currently learning **Python** -->
 
