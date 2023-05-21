@@ -12,7 +12,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [http://daina.org.uk/](http://daina.org.uk/) -->
 
-- 📫 How to reach me **daina.stauere@gmail.com**
+<!-- - 📫 How to reach me **daina.stauere@gmail.com** -->
 
 <!--  - 📄 Know about my experiences [http://daina.org.uk/image/DainaStauereCV.pdf](http://daina.org.uk/image/DainaStauereCV.pdf) -->
 
