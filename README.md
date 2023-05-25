@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazeste&label=Profile%20views&color=0e75b6&style=flat" alt="dazeste" /> </p> -->
 
-<!-- 🌱 I’m currently learning **Python** -->
+🌱 I’m currently learning **Python**
 
 
 <!-- - 🔭 I’m currently working on [Portfolio](http://daina.org.uk/) -->
